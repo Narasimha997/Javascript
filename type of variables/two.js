@@ -1,0 +1,12 @@
+let string="hello"
+let bigNr=7854759349;
+let boole=true;
+let sym=Symbol('unique');
+let undef=undefined;
+let unknown=null;
+console.log(string,typeof string);
+console.log(bigNr,typeof bigNr);
+console.log(boole,typeof boole);
+console.log(sym,typeof sym);
+console.log(undef,typeof undef);
+console.log(unknown,typeof unknown);
