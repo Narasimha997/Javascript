@@ -1,0 +1,10 @@
+let a;
+let b;
+let c;
+a=45;
+b=67;
+c=34;
+a=a+b;
+a=a/c;
+c=c%b;
+console.log(a,b,c);
