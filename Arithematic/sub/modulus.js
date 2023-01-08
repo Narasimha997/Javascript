@@ -1,0 +1,12 @@
+let nr1=10;
+let nr2=3;
+let res=nr1%nr2;
+console.log(`${nr1} % ${nr2} = ${res}`);      // Here we get the remainder only
+let a=90;
+let b=9;
+let res1=a%b;
+console.log(`${a} % ${b} = ${res1}`);
+let c=45;
+let d=8;
+let res3=c%d;
+console.log(`${c} % ${d} = ${res3}`);
