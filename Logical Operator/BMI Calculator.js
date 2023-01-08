@@ -1,4 +1,5 @@
 // BMI calculator
+// BMI stands for Body Mass Index
 /* Set values for height in inches and weight in pounds, then convert the values to
 centimeters and kilos, outputting the results to the console:
 • 1 inch is equal to 2.54 cm
