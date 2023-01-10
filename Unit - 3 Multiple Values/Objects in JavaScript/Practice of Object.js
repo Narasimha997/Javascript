@@ -33,3 +33,24 @@ console.log(myCar);
 /* 4. Output engine and model into the console */
 
 console.log(myCar.engine+" "+myCar.model);
+
+/* 5. Output the value of forSale into the console. */
+console.log(myCar.sale);
+
+/*  Output :
+{
+  carName: 'Toyota Supra',
+  color: 'Black',
+  model: 'MKIV',
+  horse_power: '321 hp',
+  price: '$40,000',
+  engine: '3.0L Sequntial Turbo Straight Six',
+  top_speed: '177mph',
+  can_drift: true,
+  sale: true
+}
+
+3.0L Sequntial Turbo Straight Six MKIV
+
+true
+*/
